@@ -1,5 +1,4 @@
 # About Me
-Hello, 
 My name is Andrew Albano. I am currently a graduate student and NCAA D1 hockey player at the University of Michigan where I am pursuing an M.S. in Robotics. I previously graduated Summa Cum Laude from Norwich University with a B.S. in Mechanical Engineering. My robotics field of interests includes path planning, motion control, end-effector forward and inverse kinematics, and machine learning.
 
 As a member of the NCAA D1 Ice Hockey Team at the University of Michigan, I balance a rigorous competitive schedule with a full graduate course load while maintaining academic excellence and achieving a 3.87 gpa. Similarly, at Norwich University I balanced the rigor of D3 Ice Hockey with my engineering studies earning a perfect 4.00 gpa. Simultaenously, I maintained leadership positions in two engineering honor societies, and represented the ice hockey team on the Student-Athlete Advisory Committee. I used my leadership positions to support student success by coordinating professional networking events, and lunch and learn events with several engineering companies.
